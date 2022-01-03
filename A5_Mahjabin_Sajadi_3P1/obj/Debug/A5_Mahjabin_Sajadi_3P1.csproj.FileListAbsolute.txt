@@ -1,0 +1,7 @@
+C:\PROG1781\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\bin\Debug\A5_Mahjabin_Sajadi_3P1.exe.config
+C:\PROG1781\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\bin\Debug\A5_Mahjabin_Sajadi_3P1.exe
+C:\PROG1781\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\bin\Debug\A5_Mahjabin_Sajadi_3P1.pdb
+C:\PROG1781\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\obj\Debug\A5_Mahjabin_Sajadi_3P1.csprojAssemblyReference.cache
+C:\PROG1781\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\obj\Debug\A5_Mahjabin_Sajadi_3P1.csproj.CoreCompileInputs.cache
+C:\PROG1781\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\obj\Debug\A5_Mahjabin_Sajadi_3P1.exe
+C:\PROG1781\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\A5_Mahjabin_Sajadi_3P1\obj\Debug\A5_Mahjabin_Sajadi_3P1.pdb
